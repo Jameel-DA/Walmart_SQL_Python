@@ -1,1 +1,0 @@
-# Walmart_SQL_Python
